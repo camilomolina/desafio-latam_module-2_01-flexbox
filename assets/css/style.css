@@ -9,19 +9,12 @@
 }
 
 .main {
-  background-image: url('../images/chat-logo.png');
-  background-size: 30%;
-  background-repeat: no-repeat;
-  background-position: center;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   width: 85%;
 }
-
-.content {
-  background-color: #fff;
- }
 
 .menu {
   display: flex;
